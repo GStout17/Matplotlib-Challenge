@@ -14,3 +14,10 @@
 - Creating summary statics of relevant information
 - Finding correlation coefficients and regressions
 - Chart include: Bar, Pie, Boxplots, Line, and Scatter Plots
+
+# Observations and Insights
+1. There's a large correlation of 0.59 between mouse weight and tumor volume. This implies that larger mice may have larger tumor volumes but there can be other third variables not taken into consideration.
+
+2. There is an almost even split between male and female mice. This shows a good sample size between each sex and an ability to see if there is any differences or similarities. Refer to the pie chart to see this information.
+
+3. Of the top four drug regimens, Capomulin and Ramicane had the best final tumor volume results. This can be seen in the boxplot data. Meaning the final tumor volume was smaller compared to Infubinol and Cerfamin.
