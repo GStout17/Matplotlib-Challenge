@@ -1,4 +1,4 @@
-# Matplotlib-Challenge
+# Squamous Cell Carcinoma Analysis
 
 # Background
 
